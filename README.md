@@ -1,0 +1,1 @@
+YAML samples for kubernetes
